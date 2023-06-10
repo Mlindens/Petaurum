@@ -17,3 +17,8 @@ HTTPS clone URL: https://git.jetbrains.space/csiplatformer/jump-game/Petaurum.gi
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Controls
+
+WASD to move, hold shift to run faster.
+Watch out for enemies and falling objects.
+Try and make it to the end level!
