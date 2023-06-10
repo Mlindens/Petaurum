@@ -1,0 +1,6 @@
+{
+    "level_name": "Magnum Scalae",
+    "background_music": "title.mp3",
+    "next_level": "TestLevel2",
+    "background_image": "background4b.png"
+}

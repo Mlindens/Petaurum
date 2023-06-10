@@ -1,0 +1,6 @@
+{
+    "level_name": "Main Menu",
+    "background_music": "title.mp3",
+    "next_level": "TestLevel",
+    "background_image": "background4b.png"
+}

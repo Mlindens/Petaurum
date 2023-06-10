@@ -1,0 +1,6 @@
+{
+    "level_name": "The Depths",
+    "background_music": "Composition_2.mp3",
+    "next_level": "ending",
+    "background_image": "background4b.png"
+}

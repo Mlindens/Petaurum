@@ -1,0 +1,6 @@
+{
+    "level_name": "The Basics",
+    "background_music": "track1.mp3",
+    "next_level": "TheNarrows",
+    "background_image": "background4b.png"
+}
